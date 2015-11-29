@@ -1,0 +1,64 @@
+body {
+	font-family: verdana;
+	margin-left: 28%;
+	margin-right: 28%;
+	margin-top: 8%;
+	margin-bottom: 10%;
+	font-size: 14px;
+}
+
+img {
+	position: absolute;
+	left: 10%;
+	top: 10%;
+    height: 80%;
+}
+
+p {
+	text-indent: 40px;
+	line-height: 20px;
+}
+
+li {
+	text-indent: 5px;
+	line-height: 20px;
+}
+
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+h2 {
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+}
+h3 {
+	border: 0px;
+	font-size: 15px;
+	text-align: center;
+}
+
+.small_font{
+	font-size: 12px;
+}
+
+#main_links{
+	font-family: "Lucida Console";
+	position: absolute;
+	left: 55%;
+	top: 20%;
+	font-size: 20px;
+	text-align: center;
+}
+
+#main_name{
+
+	border-style: none;
+	font-size: 70px;
+}
+
+.slant{
+	font-style: Italic;
+}
